@@ -1,4 +1,4 @@
-# kimaroom-b2b-admin
+# nuxt-ts-playground
 
 ## Build Setup
 
